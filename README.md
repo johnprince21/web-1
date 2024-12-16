@@ -1,7 +1,5 @@
 # Fitness App Backend API
 
-- This backend API serves as the core for a fitness app, supporting user authentication, nutrition goal tracking, exercise modeling, and goal tracking. It is built with Node.js, Express.js, and MongoDB.
-
 ## Table of Contents
 
 - Installation
